@@ -1,2 +1,2 @@
 # java
-Learn Java from Scratch...
+Master Java, Spring and Spring Boot, Spring Security, Spring AI, Docker and Microservices
