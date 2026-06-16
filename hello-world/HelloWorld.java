@@ -15,7 +15,13 @@ public class HelloWorld {
     //JVM -
     // JVM stands for Java Virtual Machine. It converts the byte code into machine code and it is platform(os) dependent
 
+    //Naming Conventions - Mostly should follow the camel casing. But based on context 
+    //It will change . We can see below,
+    //class and interface - Calculator, Runable
+    //variable and method - marks, show()
+    //constants - PIE, BRAND
+
     public static void main(String[] args) {
-     System.out.println("Hello World!!!");   
+    System.out.println("Hello World!!!");   
     }
 }
