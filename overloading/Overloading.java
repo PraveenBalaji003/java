@@ -1,4 +1,5 @@
 public class Overloading{
+    //Polymorphism - Compile Time Polymorphism
     // Method Overloading:
     // Same method name with different parameter lists (number, type, or order)
     // It is an example of compile-time polymorphism
